@@ -9,6 +9,7 @@ Driving Open Source Innovation in Autonomy & Space
 [![Website](https://img.shields.io/badge/ramonroche.com-111111?style=flat-square&logo=safari&logoColor=white)](https://ramonroche.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonroche/)
 [![X](https://img.shields.io/badge/@mrpollo-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/mrpollo)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-111111?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/ramonroche)
 
 </div>
 
