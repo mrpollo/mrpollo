@@ -2,7 +2,7 @@
 
 # Ramon Roche
 
-**General Manager, [Dronecode Foundation](https://www.dronecode.org/) / [The Linux Foundation](https://www.linuxfoundation.org/)**
+**Executive Director, [Dronecode Foundation](https://www.dronecode.org/) / [The Linux Foundation](https://www.linuxfoundation.org/)**
 
 Driving Open Source Innovation in Autonomy & Space
 
@@ -23,8 +23,3 @@ Over a decade building communities and software across drones, robotics, and spa
 - **[Space Grade Linux (ELISA)](https://github.com/elisa-tech/sig-sgl)** - Enabling Linux in safety-critical space systems
 - **[ROS Aerial Robotics](https://github.com/ROS-Aerial/aerial_robotic_landscape)** - Mapping the aerial robotics ecosystem
 - **[Pixhawk Standards](https://github.com/pixhawk/Pixhawk-Standards)** - Open hardware standards for autonomous systems
-
-### Recent talks
-
-- Keynote Speaker, **PX4 Developer Summit 2025**
-- Speaker, **Open Source Summit Europe 2025**
